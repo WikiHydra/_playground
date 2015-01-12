@@ -12,3 +12,6 @@ title: This is a test
 - shield
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+Test relative link:
+[Licence](/LICENCE.md)
