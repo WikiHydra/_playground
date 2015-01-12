@@ -27,3 +27,9 @@ Test relative link to root resource:
 Test relative link to resource in the directory:
 [hello](2013-06-16-hello-again.md)
 
+# with slash and ..
+Test relative link to root resource:
+[Licence](/../LICENCE.md)
+
+Test relative link to resource in the directory:
+[hello](/../2013-06-16-hello-again.md)
