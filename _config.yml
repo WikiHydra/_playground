@@ -1,5 +1,5 @@
 baseurl: /starter
-permalink: starter/:title
+permalink: :title
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
