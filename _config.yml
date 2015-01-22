@@ -1,4 +1,4 @@
-baseurl: /starter
+
 permalink: :title
 prose:
   rooturl: '_posts'
