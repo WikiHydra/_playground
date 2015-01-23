@@ -1,5 +1,4 @@
-
-
+baseurl: /_playground
 permalink: pretty
 prose:
   rooturl: '_posts'
