@@ -1,6 +1,6 @@
 
 url: http://stevemoser.github.io
-baseurl: /starter
+baseurl: ''
 permalink: :title
 prose:
   rooturl: '_posts'
