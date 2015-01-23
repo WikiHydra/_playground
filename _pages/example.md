@@ -1,4 +1,4 @@
 ---
-permalink: "/example/"
+permalink: "/example.html"
 ---
 [test](test.md)
