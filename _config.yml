@@ -1,5 +1,5 @@
 include: ['_pages']
-relative_permalinks: TRUE
+relative_permalinks: true
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
