@@ -1,5 +1,6 @@
 ---
 permalink: "/example/"
+layout: index
 ---
 [test](test.md)
 
