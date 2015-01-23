@@ -1,3 +1,3 @@
 include: ['_pages']
-permalinks: pretty
+#permalinks: pretty
 relative_permalinks: YES
