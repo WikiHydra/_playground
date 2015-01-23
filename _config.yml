@@ -1,4 +1,4 @@
-permalink: pretty
+permalink: /:title
 include: ['_pages']
 prose:
   rooturl: '_posts'
