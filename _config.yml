@@ -1,7 +1,6 @@
 
-url: http://stevemoser.github.io
-baseurl: ''
-permalink: :title
+
+permalink: pretty
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
