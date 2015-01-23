@@ -1,4 +1,3 @@
-baseurl: /blog
 permalink: pretty
 prose:
   rooturl: '_posts'
