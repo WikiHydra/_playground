@@ -1,4 +1,4 @@
-baseurl: /_playground
+baseurl: /blog
 permalink: pretty
 prose:
   rooturl: '_posts'
