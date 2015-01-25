@@ -3,5 +3,5 @@ include: ['_pages']
 markdown: redcarpet
 kramdown:
   input: GFM
-permalinks: /:title
-#relative_permalinks: YES
+permalinks: pretty
+relative_permalinks: YES
