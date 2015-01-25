@@ -1,3 +1,4 @@
+path: http://_playground.wikihydra.com
 include: ['_pages']
 kramdown:
   input: GFM
