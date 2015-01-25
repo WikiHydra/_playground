@@ -1,6 +1,5 @@
 #path: http://_playground.wikihydra.com
 include: ['_pages']
-markdown: redcarpet
 kramdown:
   input: GFM
 #permalinks: pretty
