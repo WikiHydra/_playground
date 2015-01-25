@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 I am trying to achieve both these objectives with one relative link:
