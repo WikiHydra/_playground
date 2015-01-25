@@ -4,4 +4,4 @@ markdown: redcarpet
 kramdown:
   input: GFM
 permalinks: pretty
-relative_permalinks: YES
+#relative_permalinks: YES
