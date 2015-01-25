@@ -1,5 +1,5 @@
 ---
-permalink: "/example.html"
+permalink: "/example"
 layout: page
 ---
 [test](test.md)
